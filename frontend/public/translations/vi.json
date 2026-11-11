@@ -528,7 +528,6 @@
         "truncateDirectory": "Bạn có chắc muốn xóa tất cả các tệp trong thư mục này không? Hành động này không thể hoàn tác.",
         "rule": {
           "invalidCharacters": "Chứa các ký tự không được phép sử dụng ở đây.",
-          "username": "Chỉ từ 3 đến 15 ký tự, bao gồm chữ cái, chữ số và dấu gạch dưới.",
           "databaseName": "Tối đa 31 ký tự, chỉ bao gồm chữ cái, chữ số và dấu gạch dưới.",
           "databaseInstanceIdentifier": "Từ 2 đến 23 ký tự, chỉ bao gồm chữ cái và chữ số.",
           "captchaSiteKey": "Chỉ chấp nhận chữ cái, chữ số, dấu gạch ngang và dấu gạch dưới.",
